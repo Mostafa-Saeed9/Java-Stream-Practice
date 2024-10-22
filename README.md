@@ -4,8 +4,8 @@ applying several Stream API functions in a cohesive workflow. Imagine we have a 
 #Scenario:
 We have a list of employees, and we need to:
 
-Filter employees based on a certain condition (e.g., employees from a particular department).
-Sort the filtered employees by their salary.
-Extract a list of their names.
-Calculate the total salary of the filtered employees.
-Check if all employees meet certain criteria (e.g., all have salaries above a threshold).
+- Filter employees based on a certain condition 
+- Sort the filtered employees by their salary.
+- Extract a list of their names.
+- Calculate the total salary of the filtered employees.
+- Check if all employees meet certain criteria (e.g., all have salaries above a threshold).
